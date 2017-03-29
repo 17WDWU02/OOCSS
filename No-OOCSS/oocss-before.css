@@ -1,0 +1,59 @@
+#main-body{
+	max-width: 1140px;
+	margin: 0 auto;
+}
+
+#Left-Column{
+	float: left;
+	width: 70%;
+}
+
+#Right-Column{
+	float: left;
+	width: 30%;
+}
+img{
+	width: 100%;
+}
+.Post-Image{
+	width: 30%;
+	float: left;
+}
+
+.Post-Content{
+	width: 70%;
+	float: left;
+}
+
+#Post1{
+	display: inline-block;
+}
+
+#Post2{
+	display: inline-block;
+}
+
+#post3{
+	display: inline-block;
+}
+
+#SidebarPost1{
+	display: inline-block;
+}
+
+#SidebarPost2{
+	display: inline-block;
+}
+
+#SidebarPost3{
+	display: inline-block;
+}
+
+#SidebarPost4{
+	display: inline-block;
+}
+
+#SidebarPost5{
+	display: inline-block;
+}
+
